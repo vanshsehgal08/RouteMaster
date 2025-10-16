@@ -1,4 +1,4 @@
-# 🚇 Metro Route Planner Pro
+# 🚇 RouteMaster
 
 **Metro Route Planner Pro** is an advanced web application built using **Python** and **Streamlit** that provides comprehensive metro route planning for **Delhi** and **Bangalore** metro systems. The application features a modern UI, intelligent route optimization, and detailed station information.
 
